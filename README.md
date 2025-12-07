@@ -38,4 +38,5 @@ Os arquivos e códigos apresentados neste repositório são referentes a constru
   - Pasta: vídeos
 - My_Publications
   - Dissertação_Ballbot_Pedro_HJ.pdf: PDF da dissertação do mestrado
+  - Artigo SysCon 2024 (IEEE): IEEE_SysCon_2024_PedroHenriquedeJesus_CairoNascimento_DouglasSSantos_SergioRBSantos.pdf
   - Pasta: Presentation (Apresentação)
